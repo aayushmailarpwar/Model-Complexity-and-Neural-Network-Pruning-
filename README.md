@@ -41,7 +41,7 @@ To replicate the experiment, follow these steps:
 
 2. Clone this repository:
     ```
-    git clone <repository-url>
+    git clone <https://github.com/aayushmailarpwar/Model-Complexity-and-Neural-Network-Pruning-.git>
     ```
 
 3. Navigate to the project directory:
